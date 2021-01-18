@@ -1,0 +1,50 @@
+#Id1 a{
+    width: 75% !important;
+    color: white !important;
+    border: 0.5px solid white;
+    border-radius: 5px;
+    font-family: 'Lemonada', cursive;
+
+    text-align: center !important;
+    left: 50% !important;
+    right: 50% !important;
+    margin: auto !important;
+    margin-top: 7px!important;
+    
+}
+
+
+#Id1 a:hover{
+    background-color: rgb(91, 233, 91) !important;
+}
+
+.string{
+
+    text-align: center !important;
+    font-family: 'Aref Ruqaa', serif !important;
+    margin-bottom: 5px;
+    
+}
+
+
+
+#aud{
+    background-color: #212529 !important;
+    width: 250px;
+    border: 0.5px solid #212529;
+    margin-top: 5px;
+}
+
+#divId{
+    text-align: center;
+    
+}
+
+.card{
+
+    text-align: center !important;
+    margin-bottom: 5px !important;
+    font-family: 'Lemonada', cursive;
+
+}
+
